@@ -1,4 +1,4 @@
-# Tinder_android_app_clone
+# Tinder_android_app_clone by SimCoder
 
 ▷ Create an android app like tinder
 
